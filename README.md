@@ -6,4 +6,6 @@ I graduated from Purdue University in 2019 with a B.S. in Mechanical Engineering
 
 My passion to continue working with cutting edge technologies in the software, electrical, and mechanical realms led me to pursue a [Master’s in Robotics at Northwestern University](https://www.mccormick.northwestern.edu/robotics/). While at Northwestern, I worked with a myriad of robotic technologies, including [robotic manipulation](https://ngmor.github.io/projects/attack-of-the-franka/), [SLAM](https://ngmor.github.io/projects/ekf-slam-from-scratch/), [autonomous navigation](https://ngmor.github.io/projects/legged-autonomous-inspection/), and [machine learning](https://ngmor.github.io/projects/diffusion-policy-assistive-action-prediction/). I graduated with my M.S. in Robotics in December 2023.
 
+I'm now developing flight software at [Astrobotic](https://www.astrobotic.com/) to power lunar rovers and improve our access to the moon.
+
 Check out some of my projects below, and if you'd like to see more head over to my [portfolio](https://ngmor.github.io/)!
